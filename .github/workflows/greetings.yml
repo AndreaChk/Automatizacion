@@ -16,4 +16,4 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: '¡Gracias por crear tu primer issue en este proyecto! 🚀'
           pr-message: '¡Gracias por tu primer pull request! Nuestro equipo lo revisará pronto. 🙌'
-          comment-message: '¡Gracias por tu primer comentario! Tu participación es muy valiosa para nosotros. 😊
+          comment-message: '¡Gracias por tu primer comentario! Tu participación es muy valiosa para nosotros. 😊'
